@@ -9,7 +9,7 @@
 | Capability | DaVinci Deluxe Cloud Edition (v1.0.45) | PCMflash |
 | :--- | :--- | :--- |
 | **Primary Role** | Automated ECU/TCU Calibration, Emissions & Stage 1/2 Engine | modular J2534 OBD/Bench ECU & TCU reading/writing software dongle |
-| **Cars & Vans Coverage** | **5,139+ ECUs / 82 Brands** | Hardware / driver dependent |
+| **Cars & Vans Coverage** | **5,150+ ECUs / 82 Brands** | Hardware / driver dependent |
 | **24V Trucks & Agriculture** | **Dedicated Engine (452+ ECUs / 82 Brands)** | Separate modules or unsupported |
 | **Marine Boats & Jet Skis** | **Dedicated Marine Engine (30+ Propulsion Brands)** | Limited / unsupported |
 | **Operating Systems** | **Windows, macOS, Linux, Android, iPad, iPhone & Web** | Typically Windows-only or hardware dongle |
